@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-29T11:27:15 IST" name="driverFactory.AppTest" finished-at="2024-11-29T11:27:27 IST" duration-ms="11831">
+    <groups>
+    </groups>
+    <test started-at="2024-11-29T11:27:15 IST" name="Command line test" finished-at="2024-11-29T11:27:27 IST" duration-ms="11831">
+      <class name="driverFactory.AppTest">
+        <test-method signature="startTest()[pri:0, instance:driverFactory.AppTest@176d53b2]" started-at="2024-11-29T11:27:15 IST" name="startTest" finished-at="2024-11-29T11:27:27 IST" duration-ms="11797" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+      </class> <!-- driverFactory.AppTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- driverFactory.AppTest -->
+</testng-results>
